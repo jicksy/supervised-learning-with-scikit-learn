@@ -9,10 +9,10 @@ Modules are in following order
    * Supervised Learning, Exploratory Data Analysis, k- Nearest Neighbors, Measuring Model Performance, Train Test Split, Fit Predict Accuracy, Overfitting and underfitting
 
 #### 2. regression
-   * The basics of linear regression, Cross - Validation, K- fold CV comparison, Regularized regression, Lasso, Ridge
+   * The basics of Linear Regression, Cross - Validation, K- fold CV comparison, Regularized Regression, Lasso, Ridge
 
 #### 3. fine_tuning_your_model
-   * Logistic Regression and LOC curve, Precision-Recall curve, Area Under the ROC curve, AUC computation, Hyperparameter tuning, GridSearchCV, RandomizedSearchCV, Hold-out set 
+   * Logistic Regression and LOC curve, Precision-Recall Curve, Area Under the ROC curve, AUC Computation, Hyperparameter Tuning, GridSearchCV, RandomizedSearchCV, Hold-out set 
 
 #### 4. preprocessing_and_pipeline
-   * Preprocessing data, creating dummy variables, regression with categorical features, handling missing data, imputing missing data in ML pipeline, centering and scaling, pipeline for classification, pipeline for regression
+   * Preprocessing data, Creating Dummy Variables, Regression with Categorical features, Handling missing data, Imputing missing data in ML pipeline, Centering and Scaling, Pipeline for Classification, Pipeline for Regression
