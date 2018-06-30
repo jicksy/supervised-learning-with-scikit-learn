@@ -1,6 +1,9 @@
 # supervised-learning-with-scikit-learn
 This was done as part of datacamp course : https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn
 
+### My review about the course:
+This course gave me a solid confidence to apply Machine Learning to datasets. All the .ipynb files uploaded in my git are 'ready to run'. I am uploading these for my reference. These exercises may not make much sense to you unless you take the above mentioned datacamp course. 
+
 Modules are in following order
 
 #### 1. classification
